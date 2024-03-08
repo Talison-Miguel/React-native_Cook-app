@@ -9,13 +9,13 @@ export const styles = StyleSheet.create({
         position: 'absolute',
         bottom: 24,
         width: '100%',
-        alignSelf: 'center'
+        alignSelf: 'center',
     },
     header: {
         flexDirection: 'row',
         justifyContent: 'space-between',
         alignItems: 'center',
-        marginBottom: 34
+        marginBottom: 34,
     },
     label: {
         color: theme.colors.white,

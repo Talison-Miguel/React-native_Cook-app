@@ -6,6 +6,7 @@ export const styles = StyleSheet.create({
         flexWrap: 'wrap',
         flexDirection: 'row',
         paddingBottom: 200,
-        gap: 12
+        gap: 12,
+        justifyContent: 'space-between'
     },
 })

@@ -10,8 +10,9 @@ export const styles = StyleSheet.create({
         height: 42,
         alignItems: 'center',
         flexDirection: 'row',
-        gap: 6
-
+        gap: 6,
+        width: 158,
+        justifyContent: 'center'
     },
     image: {
         width: 16,
