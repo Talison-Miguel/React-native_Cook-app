@@ -46,7 +46,7 @@ Uma aplicação que sugere receitas conforme os ingredientes selecionados usando
 ## 👨‍💻️ Tecnogias utilizadas
 
 ✅ [ React Native ]([https://reactnative.dev/) <br/>
-✅ [ Expo ](https://expo.dev/) <br/>
+✅ [ Expo ]([https://expo.dev/) <br/>
 ✅ [ Expo router ]([https://developer.mozilla.org/pt-BR/docs/Web/HTML](https://docs.expo.dev/router/introduction/)) <br/>
 ✅ [ Supabase ]([[https://developer.mozilla.org/pt-BR/docs/Web/HTML](https://docs.expo.dev/router/introduction/)](https://supabase.com/)) <br/>
 ✅ [ React Native reanimated ]([https://docs.swmansion.com/react-native-reanimated/)) <br/>
